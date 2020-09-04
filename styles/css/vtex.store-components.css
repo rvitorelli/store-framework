@@ -6,42 +6,34 @@
     border: 2px solid black;
     padding: 24px;
 }
-
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: gray;
     border: transparent;
 }
-
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
     background-color: blue;
     border: transparent;
 }
-
 .infoCardContainer{
     max-width: 1260px;
     margin: 0 auto;
     padding: 0px;
 }
-
 .infoCardImage{
     vertical-align: middle;
 }
-
 .infoCardContainer--vintage {
     background-color: #edcfd1
 }
-
 .infoCardContainer--metal {
     background-color: #e1e1e1
 }
-
 .infoCardContainer--vintage .infoCardHeadline {
     color: black;
     font-weight: bold;
 }
-
 .infoCardContainer--vintage .infoCardCallActionContainer :global(.vtex-button):hover {
     color: rgb(97, 90, 90);
     background-color: white;
