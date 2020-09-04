@@ -36,14 +36,6 @@
     vertical-align: middle;
 }
 
-.infoCardContainer--metal .infoCardCallActionContainer :global(.vtex-button):hover {
-    background-color: white;
-}
-
-.infoCardContainer--metal .infoCardCallActionContainer :global(.vtex-button){
-    background-color: #e1e1e1
-}
-
 .infoCardContainer--vintage {
     background-color: #edcfd1
 }
