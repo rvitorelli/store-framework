@@ -3,7 +3,7 @@
         "blocks": ["product-summary.shelf"],
         "props": {
             "blockClass": "shelf-one",
-            "collection": 139,
+            "category": 17,
             "orderBy": "OrderByTopSaleDESC",
             "paginationDotsVisibility": "desktopOnly",
             "productList": {
