@@ -1,36 +1,49 @@
+/* BASIC STYLES */
 .infoCardHeadline {
     font-family: serif;
     font-size: 2.25rem;
     font-weight: normal;
+    color: gray;
     border: 2px solid black;
     padding: 24px;
-    color: black;
-    font-weight: bold;
 }
+
 .infoCardCallActionContainer :global(.vtex-button) {
     color: white;
     background-color: gray;
     border: transparent;
 }
+
 .infoCardCallActionContainer :global(.vtex-button):hover {
     color: gray;
-    background-color: blue;
+    background-color: white;
     border: transparent;
 }
+/* BASIC STYLES */
+
 .infoCardContainer{
-    max-width: 1260px;
     margin: 0 auto;
-    padding: 0px;
+    padding: 0;
+    max-width: 1260px;
 }
+
+.infoCardHeadline{
+    color: black;
+    font-weight: bold;
+}
+
 .infoCardImage{
     vertical-align: middle;
 }
-.infoCardContainer--vintage {
-    background-color: #edcfd1
+
+.infoCardContainer--metal .infoCardCallActionContainer :global(.vtex-button):hover {
+    background-color: white;
 }
-.infoCardContainer--metal .vtex-button {
+
+.infoCardContainer--metal .infoCardCallActionContainer :global(.vtex-button){
     background-color: #e1e1e1
 }
-.infoCardCallActionContainer :global(.vtex-button):hover{
-    background-color: white;
+
+.infoCardContainer--vintage {
+    background-color: #edcfd1
 }
