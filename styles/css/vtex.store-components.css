@@ -51,3 +51,11 @@
 .container{
     padding: 0px;
 }
+
+.priceContainer {
+    flex-wrap: wrap;
+    align-items: baseline;
+}
+.installmentsContainer {
+    width: 100%;
+}
