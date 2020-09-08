@@ -28,11 +28,11 @@
       "product-summary-add-to-list-button",
       "product-summary-name",
       "product-rating-inline",
-      "product-summary-space",
+      // "product-summary-space",
       "product-summary-price",
       "product-identifier.summary",
-      "product-summary-buy-button"
-      // "add-to-cart-button"
+      // "product-summary-buy-button"
+      "add-to-cart-button"
     ]
   },
 

@@ -6,9 +6,15 @@
       "shelf",
       "flex-layout.row",
       "flex-layout.col",
-      "slider-layout"
+      "slider-layout",
+      "slider-layout#home"
+      // "minicart-product-list#example"
     ]
   },
+
+  // "minicart-product-list#example": {
+  //   "blocks": ["product-list"]
+  // },
 
   "info-card#button-right": {
     "props": {
