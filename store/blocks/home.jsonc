@@ -6,7 +6,6 @@
       "shelf",
       "flex-layout.row",
       "flex-layout.col",
-      "slider-layout",
       "slider-layout#home"
       // "minicart-product-list#example"
     ]
